@@ -25,6 +25,8 @@ public class Vetores{
 		
 		
 		System.out.println("Média: " + soma/num);	
+
+        System.out.printf("Usando Printf - Média: %.4f%n", soma/num);
 	}
 }
 
